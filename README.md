@@ -9,13 +9,13 @@ This is a collection of sorting algorithms implemented in C.
 - Selection Sort
 - Merge Sort
 - Quick Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
 
 Other algorithms are not still implemented:
 
 - Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
 - Shell Sort
 - Comb Sort
 - Gnome Sort
