@@ -33,6 +33,5 @@ Other algorithms are not still implemented:
 - Tree Sort
 - Cube Sort
 - Odd-Even Sort
-- Bitonic Sort
 - Brick Sort
 

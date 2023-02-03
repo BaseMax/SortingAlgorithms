@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void bitonic_sort(int *arr, int n) {
-    
+    // Soon
 }
 
 int main(int argc, char** argv) {
