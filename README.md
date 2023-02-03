@@ -35,3 +35,4 @@ Other algorithms are not still implemented:
 - Odd-Even Sort
 - Brick Sort
 
+Copyright (c) 2023, Max Base
