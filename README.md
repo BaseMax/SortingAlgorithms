@@ -13,6 +13,7 @@ This is a collection of sorting algorithms implemented in C.
 - Radix Sort
 - Bucket Sort
 - Shell Sort
+- Stooge Sort
 
 Other algorithms are not still implemented:
 
@@ -22,7 +23,6 @@ Other algorithms are not still implemented:
 - Cocktail Sort
 - Pigeonhole Sort
 - Cycle Sort
-- Stooge Sort
 - Bitonic Sort
 - Pancake Sort
 - Bogo Sort
