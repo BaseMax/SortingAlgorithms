@@ -14,6 +14,8 @@ This is a collection of sorting algorithms implemented in C.
 - Bucket Sort
 - Shell Sort
 - Stooge Sort
+- Slow Sort
+- Brick Sort
 
 Other algorithms are not still implemented:
 
@@ -27,12 +29,10 @@ Other algorithms are not still implemented:
 - Pancake Sort
 - Bogo Sort
 - Bogosort
-- Slow Sort
 - Smooth Sort
 - Strand Sort
 - Tree Sort
 - Cube Sort
 - Odd-Even Sort
-- Brick Sort
 
 Copyright (c) 2023, Max Base
